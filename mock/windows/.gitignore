@@ -1,0 +1,60 @@
+# Python / FastAPI-related
+__pycache__/
+*.py[cod]
+*.pkl
+*.h5
+*.joblib
+.env
+*.sqlite3
+*.db
+
+# Logs and caches
+*.log
+*.tmp
+*.bak
+
+# Virtual environment
+venv/
+env/
+
+# Jupyter/Colab
+.ipynb_checkpoints/
+
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+/build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.melos_tool/
+
+# Android-specific
+/android/app/debug
+/android/app/profile
+/android/app/release
+**/android/.gradle/
+/android/local.properties
+
+# iOS-specific
+**/ios/Pods/
+/ios/Flutter/Flutter.framework
+/ios/Flutter/App.framework
+/ios/.symlinks
+/ios/Flutter/Generated.xcconfig
+/ios/Runner.xcworkspace
+
+# macOS
+.DS_Store
+
+# VSCode
+.vscode/
+
+# IntelliJ / Android Studio
+.idea/
+*.iml
+
+# Model files (optional)
+health_alert_model.h5
+scaler.save

@@ -1,6 +1,4 @@
-# Virtual_Heartrate_Watcher
-
-## 🩺 Health Monitor System — FastAPI + Flutter
+# 🩺 Health Monitor System — FastAPI + Flutter
 
 This project is a health alert prototype that uses a trained TensorFlow model to detect dangerous health conditions based on heart rate, body temperature, and oxygen saturation data. The system consists of:
 

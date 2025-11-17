@@ -1,0 +1,2 @@
+C:/Users/youss_kk115ax/Desktop/Heartrate/mock/android/app/.cxx/Debug/266gw61r/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/youss_kk115ax/Desktop/Heartrate/mock/android/app/.cxx/Debug/266gw61r/armeabi-v7a/CMakeFiles/rebuild_cache.dir
